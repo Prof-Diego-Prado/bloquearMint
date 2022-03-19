@@ -1,0 +1,13 @@
+Baixe o .deb de acordo com seu sistema operacional
+
+Linux 32bits
+https://sourceforge.net/projects/duzeru/files/Apps/deeplock_1.0.2-duzeru_i386.deb/download
+
+Linux 64bits
+https://sourceforge.net/projects/duzeru/files/Apps/deeplock_1.0.2-duzeru_amd64.deb/download
+
+Instale o gdebi para facilitar a instalação dos seus .deb, com o comando:
+
+sudo apt-get install gdebi
+
+sudo gdebi "endereço do arquivo"
